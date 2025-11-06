@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import QuoteGenerator from './components/QuoteGenerator.jsx';
 import WeatherModule from './components/WeatherModule.jsx';
 import CurrencyConverter from './components/CurrencyConverter';
-import './App.css'; // You can style your tabs here
+import './App.css';
 
 function App() {
     // 'quote' is the default active tab

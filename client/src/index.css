@@ -16,7 +16,6 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    /* --background-image: linear-gradient(to bottom, #bd6798, #b36ca6, #a572b3, #9479bd, #817fc5, #708bd0, #5d97d8, #49a2dc, #3bb5e3, #3ec7e6, #54d9e5, #73e9e2); */
     --color-background: #55b58b ;
     --color-surface: #262828;
     --color-text: #f5f5f5;
@@ -532,7 +531,7 @@ body {
   border-radius: 0.4rem;
 }
 
-/* Currency Select Dropdown Styling - ENHANCED */
+/* Currency Select Dropdown Styling */
 .currency-select {
   width: 100%;
   padding: 0.875rem 1rem;
